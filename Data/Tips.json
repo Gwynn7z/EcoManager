@@ -1,0 +1,44 @@
+[
+	{
+		"Name": "NewRow",
+		"PowerPlant": "Sun",
+		"Textures": [
+			"Texture2D'/Game/Images/Tips/Light.Light'"
+		]
+	},
+	{
+		"Name": "NewRow_0",
+		"PowerPlant": "Wind",
+		"Textures": [
+			"Texture2D'/Game/Images/Tips/Wind.Wind'"
+		]
+	},
+	{
+		"Name": "NewRow_1",
+		"PowerPlant": "Water",
+		"Textures": [
+			"Texture2D'/Game/Images/Tips/Hydro.Hydro'"
+		]
+	},
+	{
+		"Name": "NewRow_2",
+		"PowerPlant": "Nuclear",
+		"Textures": [
+			"Texture2D'/Game/Images/Tips/Nuclear.Nuclear'"
+		]
+	},
+	{
+		"Name": "NewRow_3",
+		"PowerPlant": "Gas",
+		"Textures": [
+			"Texture2D'/Game/Images/Tips/Gas.Gas'"
+		]
+	},
+	{
+		"Name": "NewRow_4",
+		"PowerPlant": "Carbon",
+		"Textures": [
+			"Texture2D'/Game/Images/Tips/Carbon.Carbon'"
+		]
+	}
+]

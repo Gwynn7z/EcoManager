@@ -1,0 +1,62 @@
+[
+	{
+		"Name": "NewRow",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/0.0'"
+	},
+	{
+		"Name": "NewRow_0",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/1.1'"
+	},
+	{
+		"Name": "NewRow_1",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/2.2'"
+	},
+	{
+		"Name": "NewRow_2",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/3.3'"
+	},
+	{
+		"Name": "NewRow_3",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/4.4'"
+	},
+	{
+		"Name": "NewRow_4",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/5.5'"
+	},
+	{
+		"Name": "NewRow_5",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/6.6'"
+	},
+	{
+		"Name": "NewRow_6",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/7.7'"
+	},
+	{
+		"Name": "NewRow_7",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/8.8'"
+	},
+	{
+		"Name": "NewRow_8",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/9.9'"
+	},
+	{
+		"Name": "NewRow_9",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/10.10'"
+	},
+	{
+		"Name": "NewRow_10",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/11.11'"
+	},
+	{
+		"Name": "NewRow_11",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/12.12'"
+	},
+	{
+		"Name": "NewRow_12",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/13.13'"
+	},
+	{
+		"Name": "NewRow_13",
+		"RuleTextures": "Texture2D'/Game/Images/Rules/14.14'"
+	}
+]
